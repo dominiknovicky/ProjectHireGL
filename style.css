@@ -73,6 +73,7 @@ input:focus {
 	border: 0;
 	border-radius: 3px;
 	font-weight: bold;
+	float: right;
 }
 
 #error {
